@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    提交验证
+    测试提交验证
   </div>
 </template>
 
